@@ -60,12 +60,12 @@ header {
   background-position: 23px 38px, bottom right;
   background-repeat: no-repeat;
   padding-top: 50px;
-  line-height: 2.2;
+  line-height: 1.6;
 }
 
 nav {
-  width: 71%;
-  max-width: 1140px;
+  width: 75%;
+  max-width: 1350px;
   /* border: 1px solid red; */
   margin: 0 auto;
   display: flex;
